@@ -16,12 +16,13 @@
     "@scanii/core": "^1.4.0",
     "body-parser": "2.3.0",
     "express": "^5.2.1",
-    "multer": "2.3.0"
+    "multer": "2.4.0"
   },
   "devDependencies": {
     "@playwright/test": "^1.60.0"
   },
   "overrides": {
-    "qs": "6.16.0"
+    "qs": "6.16.0",
+    "proxy-addr": "2.0.8"
   }
 }
